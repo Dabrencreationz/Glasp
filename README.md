@@ -1,4 +1,5 @@
 # Glasp: A Comprehensive Guide to Understanding and Using It
+![img](https://static.crozdesk.com/web_app_library/providers/logos/000/015/143/original/glasp-1669218045-logo.png?1669218045)
 
 ## Table of Content
 
